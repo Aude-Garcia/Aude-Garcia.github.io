@@ -1,0 +1,21 @@
+h1{
+font-size: 60px;
+text-align: center;
+color: #239B56
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+a{
+font-size: 20px;
+font-family: fantasy;
+color: #F1948A;
+}
+
+body {
+background-color: #ECF0F1  ;
+}
